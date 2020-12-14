@@ -2,6 +2,10 @@ package ComTutorial;
 
 public class Start {
     public static void main(String[] args) {
-        System.out.println( "hello" );
+        printHead();
+        System.out.println( "hello World" );
+    }
+    private static void printHead(){
+        System.out.println("Start");
     }
 }
