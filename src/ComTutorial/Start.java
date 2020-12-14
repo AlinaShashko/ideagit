@@ -6,6 +6,6 @@ public class Start {
         System.out.println( "hello World" );
     }
     private static void printHead(){
-        System.out.println("Start");
+        System.out.println("Start!");
     }
 }
